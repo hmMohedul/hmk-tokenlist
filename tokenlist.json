@@ -1,0 +1,22 @@
+
+{
+  "name": "HMK PREMIUM Token List",
+  "timestamp": "2025-07-04T18:00:00+05:30",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://drive.google.com/uc?export=download&id=15d2wIgjWRceOVVBoIOngQ2XeXPd71FZ3",
+  "keywords": ["hmk", "premium", "token"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xA81FC6e1D3dceED272E236619aeFb33FB7146ca6",
+      "name": "HMK PREMIUM",
+      "symbol": "HMK",
+      "decimals": 18,
+      "logoURI": "https://drive.google.com/uc?export=download&id=15d2wIgjWRceOVVBoIOngQ2XeXPd71FZ3"
+    }
+  ]
+}
